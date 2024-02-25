@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning code.
 - 💞️ I’m looking to collaborate on code.
 - 📫 How to reach me: not possible. 
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I suck at code. 
 
 <!---
